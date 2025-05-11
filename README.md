@@ -1,5 +1,6 @@
 # JoyLock
 ![](media/image.png)
+< br />
 This was my first ever arduino project, so please excuse the rough  code. As I grow in this field I plan to add more features and make this cleaner and more professional - **hopefully**.
 
 ## Items required
