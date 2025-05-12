@@ -18,5 +18,5 @@ This was my first ever arduino project, so please excuse the rough  code. As I g
 - A0: VRX (Joystick)
 - A1: VRY (Joystick)
 - D6: SW (Joystick)
-- D8–D11: LEDs 1–4
+- D8–D11: LEDs 1–4 (All Connected via a 220R Resistor)
 - D5: Active buzzer
