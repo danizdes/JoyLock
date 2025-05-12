@@ -44,7 +44,7 @@ void playCorrectSound() {
 void setup() {
   Serial.begin(9600);
 
-  pinMode(joystickButtonPin, INPUT);
+  pinMode(joystickButtonPin, INPUT_PULLUP);
 
   pinMode(led1,OUTPUT);
   pinMode(led2,OUTPUT);
